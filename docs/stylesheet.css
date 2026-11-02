@@ -1,0 +1,17 @@
+body {background-color: aquamarine;
+font-family: 'Courier New', Courier, monospace;
+    }
+.opaqueContainer {background-color: aqua;
+   width: 80%;
+   margin: 60pt;
+   padding: 60pt;
+   text-align: center;
+   box: shadow 5%; background-color: black;
+
+   blur spead color blue
+}
+h1{color: black;
+font-size: medium;}
+p{color: black;
+font-size:small ;}
+
